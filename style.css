@@ -1,0 +1,23 @@
+body {
+    background-color: #d8ecf9;
+    
+    
+}
+canvas{
+    margin-top: 50%;
+    border: solid 2px white;
+}
+
+#gameDiv{
+    width: 403px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+p {
+    font-size: 45px;
+    text-align: center;
+    font-weight: bolder;
+}
+
